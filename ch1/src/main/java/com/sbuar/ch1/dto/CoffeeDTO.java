@@ -1,4 +1,4 @@
-package com.sbuar.ch1.models;
+package com.sbuar.ch1.dto;
 
 public class CoffeeDTO {
 
